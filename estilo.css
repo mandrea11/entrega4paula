@@ -1,0 +1,32 @@
+
+
+.A
+{
+	position: absolute;
+	background-color: #FADBD8;
+	top: 10%;
+	width: 20%
+	height: 20%;
+	left: 610px;
+	padding: 5%;
+}
+.B
+{
+	position: absolute;
+	background-color: #ABEBC6;
+	top: 10%;
+	width: 20%
+	height: 20%;
+	left: 610px;
+	padding: 5%;
+}
+.C
+{
+	position: absolute;
+	background-color: #D7BDE2;
+	top: 10%;
+	width: 20%
+	height: 20%;
+	left: 610px;
+	padding: 5%;
+}
